@@ -63,6 +63,10 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "UI_Testing.xaml"
+      },
+      {
+        "templateType": "TestCase",
+        "fileName": ".templates\\TestCaseTemplate.xaml"
       }
     ],
     "modernBehavior": true,
