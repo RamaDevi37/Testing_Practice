@@ -8,7 +8,7 @@ on:
 env:
 	PROJECT_NAME: Testing_Practice
 	ORCH_FOLDER: Shared
-	ORCH_URL: https://cloud.uipath.com
+	ORCH_URL: https://cloud.uipath.com/
 	ORCH_TENANT: DefaultTenant
       ORCH_CLIENT_ID: 8DEv1AMNXczW3y4U15LL3jYf62jK93n5
       ORCH_USER_KEY: T-2feehDa7Nuput6rszfbYK9ha5JSTtfYWtjgufzrPknk
