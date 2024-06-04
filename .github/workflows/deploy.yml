@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-	PROJECT_NAME: Test_Practice
+	PROJECT_NAME: Testing_Practice
 	ORCH_FOLDER: Shared
 	ORCH_URL: https://cloud.uipath.com
 	ORCH_TENANT: DefaultTenant
